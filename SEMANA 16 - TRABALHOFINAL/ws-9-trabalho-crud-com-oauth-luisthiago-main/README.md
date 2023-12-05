@@ -1,0 +1,1 @@
+Nesse projeto CRUD com node.js express nos fazemos as rotas de requisição http do crud, mas para fazer as requisições precisamos de um token de autenticação gerado com auth do gitlab, assim que temos o token usamos o middleware para a fazer a validação do mesmo,assim podendo usar os endpoints que precisam do token.
