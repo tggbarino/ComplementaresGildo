@@ -1,0 +1,49 @@
+{
+    "produtos": [
+      {
+        "nome_do_produto": "Smartphone Galaxy 2",
+        "preco_unitario": 599.99,
+        "quantidade": 100,
+        "categoria": "Eletrônicos",
+        "fabricante": {
+          "nome": "Galaxy",
+          "endereco": {
+            "rua": "123 Avenida Principal",
+            "cidade": "Cidade Bicas",
+            "estado": "Estado Minas Gerais",
+            "cep": "36600-000"
+          }
+        }
+      },
+      {
+        "nome_do_produto": "Notbook Dell",
+        "preco_unitario": 1299.99,
+        "quantidade": 50,
+        "categoria": "Computadores",
+        "fabricante": {
+          "nome": "TDell",
+          "endereco": {
+            "rua": "456 Rua Arthur Bernardes",
+            "cidade": "Cidade Guarará",
+            "estado": "Estado São Paulo",
+            "cep": "98765-432"
+          }
+        }
+      },
+      {
+        "nome_do_produto": "Fones de Ouvido Beats",
+        "preco_unitario": 199.99,
+        "quantidade": 200,
+        "categoria": "Áudio",
+        "fabricante": {
+          "nome": "SoundWave",
+          "endereco": {
+            "rua": "789 Rua Sonora",
+            "cidade": "Cidade Acústica",
+            "estado": "Estado Sonoro",
+            "cep": "54321-876"
+          }
+        }
+      }
+    ]
+  }
