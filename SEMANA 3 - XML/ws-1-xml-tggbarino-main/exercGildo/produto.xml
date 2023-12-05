@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produtos>
+    <produto>
+        <nome>Smartphone Galaxy</nome>
+        <preco>200.00</preco>
+        <quantidade>50</quantidade>
+        <categoria>Eletrônicos</categoria>
+        <fabricante>
+            <nome>Motorola Inc.</nome>
+            <endereco>Rua das Inovações, 123</endereco>
+            <cidade>Tecnópolis</cidade>
+            <pais>País Tecnológico</pais>
+        </fabricante>
+    </produto>
+    <produto>
+        <nome>Notebook Ultra Y</nome>
+        <preco>1200.00</preco>
+        <quantidade>25</quantidade>
+        <categoria>Informática</categoria>
+        <fabricante>
+            <nome>TechMakers Ltda.</nome>
+            <endereco>Avenida da Tecnologia, 456</endereco>
+            <cidade>Softwaresville</cidade>
+            <pais>País dos Gadgets</pais>
+        </fabricante>
+    </produto>
+    <produto>
+        <nome>Fone de Ouvido Sem Fio </nome>
+        <preco>150.00</preco>
+        <quantidade>100</quantidade>
+        <categoria>Acessórios</categoria>
+        <fabricante>
+            <nome>Sony S.A.</nome>
+            <endereco>Praça do Som, 789</endereco>
+            <cidade>Acústicaville</cidade>
+            <pais>País dos Acordes</pais>
+        </fabricante>
+    </produto>
+</produtos>
