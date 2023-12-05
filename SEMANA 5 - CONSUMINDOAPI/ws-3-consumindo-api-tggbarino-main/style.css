@@ -1,0 +1,21 @@
+input {
+  margin-bottom: 2vh;
+}
+
+textarea {
+  margin-bottom: 2vh;
+}
+
+#dados {
+  display: grid;
+  width: 25vw;
+}
+
+#titulo {
+  width: 20vw;
+}
+
+#corpo {
+  height: 16vh;
+  width: 29vw;
+}
